@@ -1,0 +1,21 @@
+{
+  "name": "web3-start",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JuntingLiu/web3-start.git"
+  },
+  "keywords": [
+    "Web3"
+  ],
+  "author": "Junting",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JuntingLiu/web3-start/issues"
+  },
+  "homepage": "https://github.com/JuntingLiu/web3-start#readme"
+}
