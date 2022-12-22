@@ -3,7 +3,12 @@
 ## 技术栈
 
 - TypeScript
-- Next.js
-- React-Query
-- vanilla-extract/css
--
+- font-dev
+  - Next.js
+  - React-Query
+  - vanilla-extract/css
+- background
+  - Nest.js
+  - TypeORM
+- DB
+  - MySQL
