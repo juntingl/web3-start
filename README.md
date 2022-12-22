@@ -3,7 +3,7 @@
 ## 技术栈
 
 - TypeScript
-- font-dev
+- front-dev
   - Next.js
   - React-Query
   - vanilla-extract/css
