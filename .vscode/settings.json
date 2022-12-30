@@ -1,0 +1,13 @@
+{
+  "mssql.connections": [
+    {
+      "server": "localhost,55000",
+      "database": "",
+      "authenticationType": "SqlLogin",
+      "user": "root",
+      "password": "",
+      "emptyPasswordInput": false,
+      "savePassword": true
+    }
+  ]
+}
